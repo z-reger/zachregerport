@@ -1,0 +1,15 @@
+body{
+  margin: 0;
+  background: black;
+}
+.absolute {
+  position: absolute;
+}
+
+.text-white {
+  color: white;
+  transform:translate (-50%,-50%);
+  left: 40%
+}
+
+
